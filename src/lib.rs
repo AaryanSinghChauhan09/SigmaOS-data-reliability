@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-reliability: data reliability model.
 //!
 //! Real implementation: uptime, MTTR, SLAs, and validation.
